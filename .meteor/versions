@@ -7,6 +7,8 @@ blaze-tools@1.0.3
 boilerplate-generator@1.0.3
 callback-hook@1.0.3
 check@1.0.5
+coffeescript@1.0.6
+d3js:d3@3.5.5
 ddp@1.1.0
 deps@1.0.7
 ejson@1.0.6
@@ -31,6 +33,8 @@ mongo@1.1.0
 mrt:bootstrap-3@0.3.8
 observe-sequence@1.0.6
 ordered-dict@1.0.3
+ostrio:neo4jdriver@0.2.11
+ostrio:neo4jreactivity@0.7.0
 random@1.0.3
 reactive-dict@1.1.0
 reactive-var@1.0.5
@@ -38,6 +42,7 @@ reload@1.1.3
 retry@1.0.3
 routepolicy@1.0.5
 session@1.1.0
+sha@1.0.3
 spacebars@1.0.6
 spacebars-compiler@1.0.6
 templating@1.1.1

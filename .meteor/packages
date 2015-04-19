@@ -8,3 +8,5 @@ meteor-platform
 autopublish
 insecure
 mrt:bootstrap-3
+ostrio:neo4jreactivity
+d3js:d3
